@@ -1,7 +1,6 @@
 # Dino Crisis 3 Model Viewer
 
-<img width="1916" height="1016" alt="Screenshot 2026-10-03 031500" src="https://github.com/user-attachments/assets/7cc4e2a0-332f-477b-93f9-34fff3ff4f96" />
-
+<img width="1917" height="1011" alt="Screenshot 2026-10-03 180736" src="https://github.com/user-attachments/assets/b2046eea-a340-4381-b0b9-707d3d6b505d" />
 
 An unofficial Windows tool for browsing, viewing, and extracting assets from the original Xbox version of Dino Crisis 3.
 
